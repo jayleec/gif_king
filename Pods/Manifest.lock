@@ -1,0 +1,33 @@
+PODS:
+  - GiphyCoreSDK (1.2.0)
+  - Kingfisher (4.7.0)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - SwiftGifOrigin (1.6.1)
+
+DEPENDENCIES:
+  - GiphyCoreSDK
+  - Kingfisher (~> 4.0)
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SwiftGifOrigin (~> 1.6.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - GiphyCoreSDK
+    - Kingfisher
+    - RxCocoa
+    - RxSwift
+    - SwiftGifOrigin
+
+SPEC CHECKSUMS:
+  GiphyCoreSDK: 1278bfc2dbdc9f1b2b1703ee70224f515b9530a6
+  Kingfisher: da6b005aa96d37698e3e4f1ccfe96a5b9bbf27d6
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  SwiftGifOrigin: d6679d3ebe9df2e049a84bc52582635107b581f6
+
+PODFILE CHECKSUM: 5bee75aa29a00fc2ebb5e9d5174788cc0c18f18e
+
+COCOAPODS: 1.5.0
